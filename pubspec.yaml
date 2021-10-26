@@ -1,6 +1,6 @@
 name: dart_merkle_lib
 description: A performance conscious package for merkle root and tree calculations.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/dart-bitcoin-lib/dart-merkle-lib
 repository: https://github.com/dart-bitcoin-lib/dart-merkle-lib
 issue_tracker: https://github.com/dart-bitcoin-lib/dart-merkle-lib/issues
